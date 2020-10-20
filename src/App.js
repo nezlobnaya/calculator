@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
+import './index.css';
 import Logo from './components/DisplayComponents/Logo';
 import Display from './components/DisplayComponents/Display';
 import Specials from './components/ButtonComponents/SpecialButtons/Specials';
